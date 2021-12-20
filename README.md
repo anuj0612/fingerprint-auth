@@ -1,1 +1,1 @@
-# fingerprint-auth
+# FingerprintAuth
